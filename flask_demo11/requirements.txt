@@ -1,0 +1,3 @@
+flask
+flasgger
+scikit-learn==1.5.0
